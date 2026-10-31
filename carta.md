@@ -1,4 +1,4 @@
-# CARTA DE PIZZAYA
+# CARTA DE PIZZAYA: edición salada
 - Barbacoa
 - Cuatro quesos
 - Carbonara
